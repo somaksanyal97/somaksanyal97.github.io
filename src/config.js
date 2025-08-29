@@ -1,27 +1,15 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'sanyalsomakncl@gmail.com',
 
   socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+  {
+    name: 'GitHub',
+    url: 'https://github.com/somaksanyal97',
+  },
+  {
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/somaksanyal/',
+  },
   ],
 
   navLinks: [
@@ -43,9 +31,9 @@ module.exports = {
     },
   ],
 
-  colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
+    green: '#017383',
+  navy: '#012F34',
+  darkNavy: '#011E28',
     darkNavy: '#020c1b',
   },
 

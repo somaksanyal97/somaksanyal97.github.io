@@ -1,17 +1,15 @@
 module.exports = {
   email: 'sanyalsomakncl@gmail.com',
-
   socialMedia: [
-  {
-    name: 'GitHub',
-    url: 'https://github.com/somaksanyal97',
-  },
-  {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/somaksanyal/',
-  },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/somaksanyal97',
+    },
+    {
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/somaksanyal/',
+    },
   ],
-
   navLinks: [
     {
       name: 'About',
@@ -30,13 +28,11 @@ module.exports = {
       url: '/#contact',
     },
   ],
-
+  colors: {
     green: '#017383',
-  navy: '#012F34',
-  darkNavy: '#011E28',
-    darkNavy: '#020c1b',
+    navy: '#012F34',
+    darkNavy: '#011E28',
   },
-
   srConfig: (delay = 200, viewFactor = 0.25) => ({
     origin: 'bottom',
     distance: '20px',
